@@ -4,7 +4,7 @@
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 500270
+# Total number of network filters: 500282
 # ------------------------------------[SUPPORT]-------------------------------------
 # You can support by:
 # - reporting false positives
@@ -9318,6 +9318,8 @@
 0.0.0.0 aafab.over-blog.com
 0.0.0.0 aafuck.com
 0.0.0.0 aagent009.tumblr.com
+0.0.0.0 aagmaal.mov
+0.0.0.0 aagmaaltube.com
 0.0.0.0 aah-bigtit.com
 0.0.0.0 aah0021.tumblr.com
 0.0.0.0 aahceleb.com
@@ -11406,7 +11408,6 @@
 0.0.0.0 addictedtogirls.tumblr.com
 0.0.0.0 addictedtogirlspussytitsass.tumblr.com
 0.0.0.0 addictedtoheels.com
-0.0.0.0 addictedtoheels.squarespace.com
 0.0.0.0 addictedtoir.tumblr.com
 0.0.0.0 addictedtoiron.tumblr.com
 0.0.0.0 addictedtolegs.com
@@ -12390,7 +12391,6 @@
 0.0.0.0 adult-love-line.blogspot.com
 0.0.0.0 adult-love.com
 0.0.0.0 adult-mag.com
-0.0.0.0 adult-mag.squarespace.com
 0.0.0.0 adult-mag.tumblr.com
 0.0.0.0 adult-magazine-world.co.uk
 0.0.0.0 adult-magazines.net
@@ -116163,7 +116163,6 @@
 0.0.0.0 dannyboxerxxx.tumblr.com
 0.0.0.0 dannyboyatx.tumblr.com
 0.0.0.0 dannyboystudio.net
-0.0.0.0 dannybunny.squarespace.com
 0.0.0.0 dannycarver.tumblr.com
 0.0.0.0 dannycroft69.tumblr.com
 0.0.0.0 dannycukevrlc.blogspot.com
@@ -129087,7 +129086,6 @@
 0.0.0.0 downwithtyranny.blogspot.com
 0.0.0.0 dowporn.unblog.fr
 0.0.0.0 doxxxindians.com
-0.0.0.0 doxydiary.squarespace.com
 0.0.0.0 doylebi.tumblr.com
 0.0.0.0 doyoudreamofmytits.tumblr.com
 0.0.0.0 doyouknowher.tumblr.com
@@ -184068,7 +184066,6 @@
 0.0.0.0 gayeroticartarchive.tumblr.com
 0.0.0.0 gayeroticartlinks.blogspot.com
 0.0.0.0 gayeroticature.tumblr.com
-0.0.0.0 gayeroticexpo.squarespace.com
 0.0.0.0 gayeroticfiction.com
 0.0.0.0 gayeroticfiction.tumblr.com
 0.0.0.0 gayeroticmedia.com
@@ -190598,6 +190595,7 @@
 0.0.0.0 geiltienertje.nl
 0.0.0.0 geiltoy.tumblr.com
 0.0.0.0 geiltube.com
+0.0.0.0 geiltubexxx.com
 0.0.0.0 geilundnackt.com
 0.0.0.0 geilundsexy.com
 0.0.0.0 geilverhaal.com
@@ -214350,7 +214348,6 @@
 0.0.0.0 homecumers.com
 0.0.0.0 homecunts.com
 0.0.0.0 homedepo.net
-0.0.0.0 homedetentionlady.squarespace.com
 0.0.0.0 homedog.co.kr
 0.0.0.0 homedoporn.com
 0.0.0.0 homedrinker.com
@@ -219721,7 +219718,6 @@
 0.0.0.0 hotcocoabear.tumblr.com
 0.0.0.0 hotcoeds.com
 0.0.0.0 hotcoeds.net
-0.0.0.0 hotcoffeegirl.squarespace.com
 0.0.0.0 hotcollegebabessex.tumblr.com
 0.0.0.0 hotcollegecoeds.com
 0.0.0.0 hotcollegegilrlsblog.tumblr.com
@@ -250766,6 +250762,7 @@
 0.0.0.0 komnu.nl
 0.0.0.0 komodo.xxl.st
 0.0.0.0 komplexa.net
+0.0.0.0 kompostube.com
 0.0.0.0 kompormbeldok.blogspot.com
 0.0.0.0 kompoz.me
 0.0.0.0 komsinice.com
@@ -312294,7 +312291,6 @@
 0.0.0.0 nookieblogs.com
 0.0.0.0 nookiecream.com
 0.0.0.0 nookiecutter.com
-0.0.0.0 nookiecutterplus.squarespace.com
 0.0.0.0 nookieinthenorth.co.uk
 0.0.0.0 nookiejar.com
 0.0.0.0 nookiemonster1.tumblr.com
@@ -324121,6 +324117,7 @@
 0.0.0.0 otterslave.tumblr.com
 0.0.0.0 ottersmut.tumblr.com
 0.0.0.0 ottersucker.tumblr.com
+0.0.0.0 ottmaza.expert
 0.0.0.0 otto149.tumblr.com
 0.0.0.0 otto150.tumblr.com
 0.0.0.0 ottobufonto.tumblr.com
@@ -330229,7 +330226,6 @@
 0.0.0.0 pereporno.com
 0.0.0.0 pererecabusada.com
 0.0.0.0 perewall.h18.ru
-0.0.0.0 perezhilton.com
 0.0.0.0 perezrovira.net
 0.0.0.0 perfect-10.com
 0.0.0.0 perfect-asians.com
@@ -346750,6 +346746,7 @@
 0.0.0.0 pornoroute.com
 0.0.0.0 pornorscorn.com
 0.0.0.0 pornorubka.net
+0.0.0.0 pornoruhe.net
 0.0.0.0 pornorunet.ru
 0.0.0.0 pornoruso.net
 0.0.0.0 pornorussia.tv
@@ -462342,6 +462339,7 @@
 0.0.0.0 uncutkub.tumblr.com
 0.0.0.0 uncutlad.tumblr.com
 0.0.0.0 uncutlatincock.com
+0.0.0.0 uncutmaal.com
 0.0.0.0 uncutmale28.tumblr.com
 0.0.0.0 uncutmen.com
 0.0.0.0 uncutmen.org
@@ -462930,7 +462928,6 @@
 0.0.0.0 uniqueteenssex.tumblr.com
 0.0.0.0 uniquetits.tumblr.com
 0.0.0.0 uniqueuniversal.tumblr.com
-0.0.0.0 unisex-friseure.de
 0.0.0.0 unisex.nl
 0.0.0.0 unisexgvt.tumblr.com
 0.0.0.0 unisexsalonband.com
@@ -484649,6 +484646,8 @@
 0.0.0.0 xhamester.com
 0.0.0.0 xhamester.org
 0.0.0.0 xhammer.com
+0.0.0.0 xhammer.net
+0.0.0.0 xhammer.be
 0.0.0.0 xhampster.xyz
 0.0.0.0 xhampstersex.com
 0.0.0.0 xhamster-art.com
@@ -484753,6 +484752,7 @@
 0.0.0.0 xhit.de
 0.0.0.0 xhits.de
 0.0.0.0 xhitz.de
+0.0.0.0 xhofficial.com
 0.0.0.0 xhomemadesporn.com
 0.0.0.0 xhomeporn.com
 0.0.0.0 xhometube.com
@@ -500234,6 +500234,7 @@
 0.0.0.0 xxxhubporn.com
 0.0.0.0 xxx.spreee.pro
 0.0.0.0 xxxvideo.world
+0.0.0.0 xxxvideo.best
 0.0.0.0 xyzmilfs.com
 0.0.0.0 xyzteens.com
 0.0.0.0 xzxxtube.com
@@ -500289,3 +500290,14 @@
 0.0.0.0 porngameshub.com
 0.0.0.0 pornhentai.games
 0.0.0.0 collegesexgames.com
+0.0.0.0 www.filmikiporno.tv
+0.0.0.0 www.tube2017.com
+0.0.0.0 www.filmyporno.blog
+0.0.0.0 www.koloporno.com
+0.0.0.0 penisy.prv.pl
+0.0.0.0 pornelos.com
+0.0.0.0 pl.sex.com
+0.0.0.0 www.evooli.com
+0.0.0.0 www.pornohammer.com
+0.0.0.0 www.phica.eu/forums/
+0.0.0.0 www.letmejerk.com

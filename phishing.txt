@@ -4,7 +4,7 @@
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 190224
+# Total number of network filters: 190222
 # ------------------------------------[SUPPORT]-------------------------------------
 # You can support by:
 # - reporting false positives
@@ -92033,7 +92033,6 @@
 0.0.0.0 shrisha.co.in
 0.0.0.0 shritirlokpuri.com
 0.0.0.0 shrivelled-print.000webhostapp.com
-0.0.0.0 shrtm.nu
 0.0.0.0 shs.grafixreview.com
 0.0.0.0 shsceo.com
 0.0.0.0 shsh-rental.net
@@ -171928,7 +171927,6 @@
 0.0.0.0 www.shrisaishardha.com
 0.0.0.0 www.shrisha.co.in
 0.0.0.0 www.shritirlokpuri.com
-0.0.0.0 www.shrtm.nu
 0.0.0.0 www.shs.grafixreview.com
 0.0.0.0 www.shsh-rental.net
 0.0.0.0 www.shshide.com

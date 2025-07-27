@@ -4,7 +4,7 @@
 ! Homepage: https://blocklist.site
 ! Help: https://github.com/blocklistproject/lists/wiki/
 ! License: https://unlicense.org
-! Total number of network filters: 500270
+! Total number of network filters: 500282
 ! ------------------------------------[SUPPORT]-------------------------------------
 ! You can support by:
 ! - reporting false positives
@@ -9318,6 +9318,8 @@
 ||aafab.over-blog.com^
 ||aafuck.com^
 ||aagent009.tumblr.com^
+||aagmaal.mov^
+||aagmaaltube.com^
 ||aah-bigtit.com^
 ||aah0021.tumblr.com^
 ||aahceleb.com^
@@ -11406,7 +11408,6 @@
 ||addictedtogirls.tumblr.com^
 ||addictedtogirlspussytitsass.tumblr.com^
 ||addictedtoheels.com^
-||addictedtoheels.squarespace.com^
 ||addictedtoir.tumblr.com^
 ||addictedtoiron.tumblr.com^
 ||addictedtolegs.com^
@@ -12390,7 +12391,6 @@
 ||adult-love-line.blogspot.com^
 ||adult-love.com^
 ||adult-mag.com^
-||adult-mag.squarespace.com^
 ||adult-mag.tumblr.com^
 ||adult-magazine-world.co.uk^
 ||adult-magazines.net^
@@ -116163,7 +116163,6 @@
 ||dannyboxerxxx.tumblr.com^
 ||dannyboyatx.tumblr.com^
 ||dannyboystudio.net^
-||dannybunny.squarespace.com^
 ||dannycarver.tumblr.com^
 ||dannycroft69.tumblr.com^
 ||dannycukevrlc.blogspot.com^
@@ -129087,7 +129086,6 @@
 ||downwithtyranny.blogspot.com^
 ||dowporn.unblog.fr^
 ||doxxxindians.com^
-||doxydiary.squarespace.com^
 ||doylebi.tumblr.com^
 ||doyoudreamofmytits.tumblr.com^
 ||doyouknowher.tumblr.com^
@@ -184068,7 +184066,6 @@
 ||gayeroticartarchive.tumblr.com^
 ||gayeroticartlinks.blogspot.com^
 ||gayeroticature.tumblr.com^
-||gayeroticexpo.squarespace.com^
 ||gayeroticfiction.com^
 ||gayeroticfiction.tumblr.com^
 ||gayeroticmedia.com^
@@ -190598,6 +190595,7 @@
 ||geiltienertje.nl^
 ||geiltoy.tumblr.com^
 ||geiltube.com^
+||geiltubexxx.com^
 ||geilundnackt.com^
 ||geilundsexy.com^
 ||geilverhaal.com^
@@ -214350,7 +214348,6 @@
 ||homecumers.com^
 ||homecunts.com^
 ||homedepo.net^
-||homedetentionlady.squarespace.com^
 ||homedog.co.kr^
 ||homedoporn.com^
 ||homedrinker.com^
@@ -219721,7 +219718,6 @@
 ||hotcocoabear.tumblr.com^
 ||hotcoeds.com^
 ||hotcoeds.net^
-||hotcoffeegirl.squarespace.com^
 ||hotcollegebabessex.tumblr.com^
 ||hotcollegecoeds.com^
 ||hotcollegegilrlsblog.tumblr.com^
@@ -250766,6 +250762,7 @@
 ||komnu.nl^
 ||komodo.xxl.st^
 ||komplexa.net^
+||kompostube.com^
 ||kompormbeldok.blogspot.com^
 ||kompoz.me^
 ||komsinice.com^
@@ -312294,7 +312291,6 @@
 ||nookieblogs.com^
 ||nookiecream.com^
 ||nookiecutter.com^
-||nookiecutterplus.squarespace.com^
 ||nookieinthenorth.co.uk^
 ||nookiejar.com^
 ||nookiemonster1.tumblr.com^
@@ -324121,6 +324117,7 @@
 ||otterslave.tumblr.com^
 ||ottersmut.tumblr.com^
 ||ottersucker.tumblr.com^
+||ottmaza.expert^
 ||otto149.tumblr.com^
 ||otto150.tumblr.com^
 ||ottobufonto.tumblr.com^
@@ -330229,7 +330226,6 @@
 ||pereporno.com^
 ||pererecabusada.com^
 ||perewall.h18.ru^
-||perezhilton.com^
 ||perezrovira.net^
 ||perfect-10.com^
 ||perfect-asians.com^
@@ -346750,6 +346746,7 @@
 ||pornoroute.com^
 ||pornorscorn.com^
 ||pornorubka.net^
+||pornoruhe.net^
 ||pornorunet.ru^
 ||pornoruso.net^
 ||pornorussia.tv^
@@ -462342,6 +462339,7 @@
 ||uncutkub.tumblr.com^
 ||uncutlad.tumblr.com^
 ||uncutlatincock.com^
+||uncutmaal.com^
 ||uncutmale28.tumblr.com^
 ||uncutmen.com^
 ||uncutmen.org^
@@ -462930,7 +462928,6 @@
 ||uniqueteenssex.tumblr.com^
 ||uniquetits.tumblr.com^
 ||uniqueuniversal.tumblr.com^
-||unisex-friseure.de^
 ||unisex.nl^
 ||unisexgvt.tumblr.com^
 ||unisexsalonband.com^
@@ -484649,6 +484646,8 @@
 ||xhamester.com^
 ||xhamester.org^
 ||xhammer.com^
+||xhammer.net^
+||xhammer.be^
 ||xhampster.xyz^
 ||xhampstersex.com^
 ||xhamster-art.com^
@@ -484753,6 +484752,7 @@
 ||xhit.de^
 ||xhits.de^
 ||xhitz.de^
+||xhofficial.com^
 ||xhomemadesporn.com^
 ||xhomeporn.com^
 ||xhometube.com^
@@ -500234,6 +500234,7 @@
 ||xxxhubporn.com^
 ||xxx.spreee.pro^
 ||xxxvideo.world^
+||xxxvideo.best^
 ||xyzmilfs.com^
 ||xyzteens.com^
 ||xzxxtube.com^
@@ -500289,3 +500290,14 @@
 ||porngameshub.com^
 ||pornhentai.games^
 ||collegesexgames.com^
+||www.filmikiporno.tv^
+||www.tube2017.com^
+||www.filmyporno.blog^
+||www.koloporno.com^
+||penisy.prv.pl^
+||pornelos.com^
+||pl.sex.com^
+||www.evooli.com^
+||www.pornohammer.com^
+||www.phica.eu/forums/^
+||www.letmejerk.com^

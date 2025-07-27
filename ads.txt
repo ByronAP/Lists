@@ -4,7 +4,7 @@
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 154559
+# Total number of network filters: 154554
 # ------------------------------------[SUPPORT]-------------------------------------
 # You can support by:
 # - reporting false positives
@@ -51812,7 +51812,6 @@
 0.0.0.0 clickhereforcellphones.com
 0.0.0.0 clickhereforfun.org
 0.0.0.0 clickheretofind.com
-0.0.0.0 clickhouse.com
 0.0.0.0 clickhubs.com
 0.0.0.0 clickhype.com
 0.0.0.0 clicki.cn
@@ -81996,7 +81995,6 @@
 0.0.0.0 ir1p5.voluumtrk.com
 0.0.0.0 ir2.beap.gemini.yahoo.com
 0.0.0.0 ir752.voluumtrk.com
-0.0.0.0 iraiser.eu
 0.0.0.0 iran-gold.com
 0.0.0.0 iranpopup.ir
 0.0.0.0 irantableegh.org
@@ -85048,8 +85046,6 @@
 0.0.0.0 kindredplc.com
 0.0.0.0 kindsnacks.pxf.io
 0.0.0.0 kineclick.free.fr
-0.0.0.0 kinesis.us-east-1.amazonaws.com
-0.0.0.0 kinesis.us-east-1amazonaws.com
 0.0.0.0 kinesisanalytics.eu-central-1.amazonaws.com
 0.0.0.0 kinesisanalytics.eu-west-1.amazonaws.com
 0.0.0.0 kinesiz.go2affise.com
@@ -144824,7 +144820,6 @@
 0.0.0.0 www.clickdealer.com
 0.0.0.0 www.clickdensity.com
 0.0.0.0 www.clickedyclick.com
-0.0.0.0 www.clickhouse.com
 0.0.0.0 www.clickice.com
 0.0.0.0 www.clickintext.com
 0.0.0.0 www.clickiocdn.com

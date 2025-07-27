@@ -4,7 +4,7 @@
 ! Homepage: https://blocklist.site
 ! Help: https://github.com/blocklistproject/lists/wiki/
 ! License: https://unlicense.org
-! Total number of network filters: 435159
+! Total number of network filters: 435155
 ! ------------------------------------[SUPPORT]-------------------------------------
 ! You can support by:
 ! - reporting false positives
@@ -30853,7 +30853,6 @@
 ||clickfuse.com^
 ||clickganic.com^
 ||clickhere.ru^
-||clickhouse.com^
 ||clickinc.com^
 ||clickintext.com^
 ||clickintext.net^
@@ -208015,7 +208014,6 @@
 ||sistemes-roulette.fr^
 ||sistemmedya.com.tr^
 ||sister-from.tk^
-||sister.agenziaentrate.gov.it^
 ||sister2sister.today^
 ||sisterabrok.tk^
 ||sisterbrideastrology.com^
@@ -251053,7 +251051,6 @@
 ||www.clickeymickey.ru^
 ||www.clickforamateurs.com^
 ||www.clickheretofind.com^
-||www.clickhouse.com^
 ||www.clickip.cn^
 ||www.clicklenderz.com^
 ||www.clickliker.tk^
@@ -294518,7 +294515,6 @@
 ||www.notiluxe.fr^
 ||www.notinappearance.tk^
 ||www.notingthatas.tk^
-||www.notion.com^
 ||www.notioned.stream^
 ||www.notison.com^
 ||www.notivideox.blogspot.com^
